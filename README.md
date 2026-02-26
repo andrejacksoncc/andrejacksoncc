@@ -19,4 +19,4 @@
 
 
 
-[linkedin]: https://linkedin.com/in/Andre
+[linkedin]: [https://linkedin.com/in/Andre](https://www.linkedin.com/in/andre-jackson-948286320/)
